@@ -1,5 +1,5 @@
 modificando despues de crear ramami dato de agregandoDato 2
 linea nueva rama, modificando el masterd
-linea1m
-linea 2m
-linea 3m
+linea1m1
+linea 2m2
+linea 3m3
